@@ -1,0 +1,7 @@
+{
+  "name": "facvt",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
